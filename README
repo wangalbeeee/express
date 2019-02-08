@@ -1,0 +1,7 @@
+npm init
+npm install express --save
+npm install mysql --save
+
+사용해서 커넥터, 익스프레스 설치
+
+간단히 호스트:3000 호출하면 만들어 놓은 테이블에 데이터 가져옴.
